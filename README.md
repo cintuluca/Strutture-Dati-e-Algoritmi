@@ -11,6 +11,8 @@ In the following table are summarized all the treated algorithms, grouped by per
 <tr><td>Matrix multiplication   	<td> <ul> <li>Incremental approach <li>Divide et Impera approach <li>Strassen algorithm <ul>
 </table>
 
+The notebooks named with a 2 at the end show step by step the operations done by the algorithm.
+
 # AUTHOR
 
 Luca Cintura <luca.cintura@gmail.com> <br />
