@@ -6,7 +6,7 @@ In the following table are summarized all the treated algorithms, grouped by per
 
 <table>
 <tr><th>Task		                <th>Algorithm
-<tr><td>Array sorting	            <td> <ul> <li>Insertion sort<li> <li>Merge sort<li>
+<tr><td>Array sorting	            <td> <ul> <li>Insertion sort <li>Merge sort <ul>
 <tr><td>Array maximum element seach <td>Incremental approach <br /> Divide et Impera approach 
 <tr><td>Matrix multiplication   	<td>Incremental approach <br /> Divide et Impera approach <br /> Strassen algorithm
 </table>
