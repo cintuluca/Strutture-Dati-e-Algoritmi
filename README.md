@@ -1,4 +1,4 @@
-# Strutture Dati e Algoritmi - <i>Data Structures and Algorithms</i>
+# - Strutture Dati e Algoritmi - <br /> <i>Data Structures and Algorithms</i>
 
 This is a collection of remarkable algorithms implementation in Python language, making use of Jupyter Notebooks. There are also some numerical examples of their usage, shown for particular data structures.
 
