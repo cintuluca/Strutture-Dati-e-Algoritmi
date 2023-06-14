@@ -9,6 +9,7 @@ In the following table are summarized all the treated algorithms, grouped by per
 <tr><td>Array sorting	            <td> <ul> <li>Insertion sort <li>Merge sort <ul>
 <tr><td>Array maximum element seach <td> <ul> <li>Incremental approach <li>Divide et Impera approach <ul>
 <tr><td>Matrix multiplication   	<td> <ul> <li>Incremental approach <li>Divide et Impera approach <li>Strassen algorithm <ul>
+<tr><td>Ground state calculation    <td> <ul> <li>Matrix Product State (MPS) <li>Matrix Product Operator (MPO) <li>Density Matrix Renormalization Group (DMRG)
 </table>
 
 The notebooks named with a 2 at the end show step by step the operations done by the algorithm.
